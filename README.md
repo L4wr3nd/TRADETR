@@ -11,6 +11,7 @@ The analysis aims to provide a general overview of the state of Türkiye's inter
         <li>Data general overview, cleaning/preparation</li>
         <li>Annual data analysis</li>
         <li>Last year analysis by countries</li>
+        <li>Other activities</li>
     </ol>
 </p>
 <p>
